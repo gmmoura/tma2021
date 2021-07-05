@@ -44,6 +44,7 @@ casino.,4,4,4,4,73,73,0
    * Let's do some pre-processing to make things easier for R
    
 ```shell
+cd matched-class
 #filter only anycast ccTLDs in both measuremenst
 head -n 1 cctld.csv > ccTLD-anycast-anycast.csv
 cat cctld.csv |awk -F',' '$23=="Anycast" && $24=="Anycast"' >>ccTLD-anycast-anycast.csv
