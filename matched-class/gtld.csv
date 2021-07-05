@@ -1,0 +1,8 @@
+tld,NumberNSrecords,UniqueARecs,UniqueAAAArecs,AnycastPrefixesArecs,totalAnycastSitesIPv4,totalAnycastSitesIPv4Slash24,totalUnicastIPv4,sites2017,unicast2017,combined2017,|,NumberNSrecords,UniqueARecs,UniqueAAAArecs,AnycastPrefixesArecs,totalAnycastSitesIPv4,totalAnycastSitesIPv4Slash24,totalUnicastIPv4,sites21,unicast21,combined21,classification17,classification21
+net.,13,13,13,13,98,98,0,98,0,98,|,13,13,13,13,129,129,0,129,0,129,Anycast,Anycast
+gov.,4,4,4,2,10,10,2,10,2,12,|,4,4,4,4,29,29,0,29,0,29,Mixed,Anycast
+mil.,6,6,6,0,0,0,6,0,6,6,|,6,6,6,0,0,0,6,0,6,6,Unicast,Unicast
+org.,6,6,6,6,47,47,0,47,0,47,|,6,6,6,6,87,87,0,87,0,87,Anycast,Anycast
+com.,13,13,13,13,98,98,0,98,0,98,|,13,13,13,13,129,129,0,129,0,129,Anycast,Anycast
+edu.,6,6,6,6,34,34,0,34,0,34,|,13,13,13,13,129,129,0,129,0,129,Anycast,Anycast
+int.,5,5,5,1,4,4,4,4,4,8,|,6,6,6,3,11,11,3,11,3,14,Mixed,Mixed
